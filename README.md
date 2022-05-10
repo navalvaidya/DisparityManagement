@@ -1,4 +1,10 @@
 # Scraping and Analysis of Tripadvisor data to find disparity in the price listings
+Data analysis and sentiment analysis is performed on the data obtained by scraping the TripAdvisor website and getting details of all the hotel listing on tripadvisor for a city.
+
+**Python Scripts are located in the below location in the repository**
+```
+DisparityManagement/OTACart/WebContent/WEB-INF/DataFiles/
+```
 
 ## Setup
 **For Windows**
